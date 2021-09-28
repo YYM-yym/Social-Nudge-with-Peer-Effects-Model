@@ -11,6 +11,7 @@ In this project, we evaluate the platform-wise effect on boosting production of 
 ## Project Significance
 As data science students immersed in the very environment with developed technology and fragmented entertainment, We can keenly feel the impact of social media on people's lives, as exemplified by short video platforms. Also as users of social media platforms, we have noticed that sending social nudge could significantly simulate the creator's productivity. 
 
+In this project, we quantify the global effect of sending one social nudge. This gives out a specific view of how users' activity could create values to the overall platform. 
 
-
-Project programming language: Python.
+## Working Content
+### Generating a simulated social platform network based on following relationship
