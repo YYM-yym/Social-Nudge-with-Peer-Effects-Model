@@ -14,6 +14,6 @@ As data science students immersed in the very environment with developed technol
 In this project, we quantify the global effect of sending one social nudge. This gives out a specific view of how users' activity could create values to the overall platform. 
 
 ## Working Content
-..* Generating a simulated social platform network based on following relationship with manully set parameters (e.g. nodes number, probability of following, etc.);
+* Generating a simulated social platform network based on following relationship with manully set parameters (e.g. nodes number, probability of following, etc.);
 
 
