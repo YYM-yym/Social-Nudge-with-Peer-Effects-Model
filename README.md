@@ -1,7 +1,7 @@
 # Social Nudge with Peer Effects Model
 
 ## Team
-**coworked** by [Haozhen Guo](https://github.com/UrquhartG) and [Yumo Yao](https://github.com/YYM-yym)
+**Coworked** by [Haozhen Guo](https://github.com/UrquhartG) and [Yumo Yao](https://github.com/YYM-yym)
 
 **Instructed** by Dr. Renyu Zhang.
 
